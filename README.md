@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @halcyonzii
-- 👀 I’m an optometrist interested in comp sci, crypto, tennis & F1
-- 🌱 I’m currently learning Harvard's CS50 Introduction to Comp Sci
+- 👀 I’m an optometrist interested in comp sci
+- 🌱 I’m currently learning Harvard's CS50's Introduction to Programming with Python
 
 
 <!---
